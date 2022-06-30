@@ -1,4 +1,4 @@
 server:
-  port: 7070
+  port: 7071
 
 value: global-value
