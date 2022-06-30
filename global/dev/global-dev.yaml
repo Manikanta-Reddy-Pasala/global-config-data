@@ -1,4 +1,3 @@
 server:
   port: 7071
-
-value: global-value
+  value: hello
