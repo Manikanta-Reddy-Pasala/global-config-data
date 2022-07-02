@@ -1,2 +1,2 @@
-server:
-  name: prod-hello
+oscar:
+  name: prod-oscar
