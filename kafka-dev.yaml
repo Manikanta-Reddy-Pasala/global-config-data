@@ -1,0 +1,4 @@
+kafka:
+  url: https://kafka-dev.onpier.de
+  user: user-kafka
+  pass: kafka-pass
