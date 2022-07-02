@@ -1,2 +1,2 @@
-oscar:
-  name: prod-oscar
+global:
+  name: prod-global
